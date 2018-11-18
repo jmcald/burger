@@ -1,4 +1,3 @@
-# burger
 
 ## The Burger Hall of Fame: A tribute to the best burgers of Bob's Burgers
 
