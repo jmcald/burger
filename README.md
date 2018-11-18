@@ -19,6 +19,8 @@ Once the button is pressed, the list will be updated withe user's submission.
 
 # Link to deployed page:
 
+https://stormy-citadel-33612.herokuapp.com/
+
 # Technologies Used
 
 - HTML
