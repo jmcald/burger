@@ -12,11 +12,13 @@ The main page is a pretty simple display of the current list of burgers saved to
 
 To add a new burger, the user only needs to type in their totally original and worthy idea into the input space and submit it with the "Add the Burger" button.
 
+![creative screenshot](public/images/creative-screenshot.PNG)
+
 Once the button is pressed, the list will be updated withe user's submission.
 
-# Link to deployed page:
+![updated screenshot](public/images/updated-screenshot.PNG)
 
-    - https://safe-hollows-35552.herokuapp.com/
+# Link to deployed page:
 
 # Technologies Used
 
